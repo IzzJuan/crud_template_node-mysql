@@ -1,0 +1,1 @@
+# crud_template_node-mysql
